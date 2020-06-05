@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\CourseWork\Facylity\bin\Debug\netstandard2.0\Facylity.deps.json
+C:\Users\ASUS\source\repos\CourseWork\Facylity\bin\Debug\netstandard2.0\Facylity.dll
+C:\Users\ASUS\source\repos\CourseWork\Facylity\bin\Debug\netstandard2.0\Facylity.pdb
+C:\Users\ASUS\source\repos\CourseWork\Facylity\obj\Debug\netstandard2.0\Facylity.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\CourseWork\Facylity\obj\Debug\netstandard2.0\Facylity.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CourseWork\Facylity\obj\Debug\netstandard2.0\Facylity.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CourseWork\Facylity\obj\Debug\netstandard2.0\Facylity.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CourseWork\Facylity\obj\Debug\netstandard2.0\Facylity.dll
+C:\Users\ASUS\source\repos\CourseWork\Facylity\obj\Debug\netstandard2.0\Facylity.pdb
